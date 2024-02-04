@@ -1,0 +1,1 @@
+<img src="{{ asset('/logo/animalPaw.png') }}" alt="logo" class="w-12 h-12">

@@ -1,0 +1,1 @@
+components.nav.links<?php /**PATH C:\xampp\htdocs\www\animalTalent\storage\framework\views/dbc8c939eecd92a2229476ed902fa2a2.blade.php ENDPATH**/ ?>
